@@ -1,0 +1,27 @@
+
+
+.img-fluid.rounded-circle.z-depth-1{
+  border-radius: 50% !important;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12)!important;
+  max-width: 15%;
+}
+
+.jumbotron.jumbotron-fluid{
+  padding-top: 0;
+  background-color: #ffffff;
+}
+
+.display-4.pt-5.font-weight-bold.text-center{
+  font-size: 50px;
+}
+
+.withborder:after{
+  content: "";
+  display: block;
+  border-bottom: 1px solid red;
+  margin: 25px 250px;
+}
+
+.text-center.new{
+  padding-top: 20px;
+}
